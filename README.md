@@ -1,4 +1,4 @@
-Overview
+
 This Jupyter Notebook is designed to build a machine learning model that predicts whether an invoice payment will be delayed. The notebook includes data preprocessing, feature engineering, model training, and evaluation steps. The primary goal is to create an optimized model that can accurately predict payment delays based on various invoice-related features.
 Since I do not have permission, I cannot share the data.
 Dependencies
@@ -18,5 +18,6 @@ Usage
 3.	Follow the steps in the notebook to preprocess the data, train the model, and evaluate its performance.
 4.	Use the trained model to predict payment delays on new data.
 
+A piece of extra information has been provided as a PDF file for the reader (Overview)
 
 
